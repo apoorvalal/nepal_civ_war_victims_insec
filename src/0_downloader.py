@@ -21,7 +21,6 @@ def download(id, dir, victim_root):
 maxid = 17509
 insec_root = "http://www.insec.org.np/victim/candidate_details_user.php"
 for i in range(1, maxid + 1):
-for i in range(1, 1000):
     download(i, "/home/alal/tmp/_scrapers/insec_nepal/raw_pages", insec_root)
     time.sleep(0.1)
 # %%
