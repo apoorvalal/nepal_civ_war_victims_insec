@@ -1,4 +1,4 @@
-# Processing and parsing code for Nepali civil war victim reports
+# Individual level dataset of Nepali civil war victims
 
 Scraper and processing code for INSEC reports of 15,000 victims of the Nepalese
 civil war. Produces tabular individual victim level data with transliterated
